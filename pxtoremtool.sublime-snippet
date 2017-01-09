@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+@charset "UTF-8";
+/*
+* Px转Rem工具
+* 转换比例 : ${1:640}(px) -> ${2:16.0}(rem)
+* 联系我们 : tools@nanweishui.com
+* 请确认您的网页渲染完毕后首先执行一下JS代码  
+* ;(function(doc,win){var docEle=doc.documentElement,evt="onorientationchange"in window?"orientationchange":"resize",fn=function(){var width=docEle.clientWidth;width&&(docEle.style.fontSize=20*(width/320)+"px")};win.addEventListener(evt,function(){setTimeout(function(){fn()},100)},false);doc.addEventListener("DOMContentLoaded",fn,false)}(document,window));
+*/
+${3:}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>/***</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+	<description>MobilLayouts for css</description>
+</snippet>
