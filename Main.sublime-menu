@@ -1,0 +1,14 @@
+[
+{
+    "id": "tools",
+    "children":
+    [
+        {
+		    "id" : "pxtoremtool",
+		    "caption" : "pxtoremtool",
+		    "command" : "pxtoremtool",
+			"keys": ["alt+x"]
+		}
+    ]
+}
+]
