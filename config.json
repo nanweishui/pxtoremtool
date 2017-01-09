@@ -1,0 +1,10 @@
+{
+	"name": "pxtoremtool",
+	"details": "https://github.com/nanweishui/pxtoremtool",
+	"releases": [
+		{
+			"sublime_text": "pxtoremtool",
+			"tags": true
+		}
+	]
+}
